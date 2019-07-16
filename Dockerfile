@@ -1,3 +1,4 @@
+# ARG peut être placer n'import
 ARG version=latest
 FROM ubuntu:$version
 #MAINTAINER JCD "jcd717@outlook.com"
